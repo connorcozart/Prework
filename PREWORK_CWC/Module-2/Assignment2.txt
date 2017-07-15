@@ -1,0 +1,10 @@
+﻿1. ASP.net MVC- Open source web framework. Used to build web apps using html and css.
+2. BV.net- OOP language launched by microsoft in 2002. It can is used widely on the ASP.net framework. 
+3. REST api- Application Programing Interface- Allows one piece of software to talk to another. Representational State Transfer.
+4. Node.js- Allows Javascript to run on your computer or other machine. JS normally runs in the browser and can only access the web pages being viewed but now node.js allows it to access folders and other files on the computer. 
+5. SEO- Search Engine Optimization. Uses algorithms that take all the useful information pertaining to the users search and brings it all together in a page, so that the user doesn’t have to look over EVERY page out there. 
+6. SVG- Scaleable Vector Graphics. Used so that the image that is presented can be stretched indefinitely and still look normal and not pixelated. 
+7. Struts-Taglib- a framework that uses java’s API and employs an MVC (Model View Controller). 
+8. Unix BASH shell- a command language interpreter for the GNU (Unix like but has no Unix code) operating system. 
+9. Wordpress- An online website creation tool written in PHP. it is a CMS (Content Management System). 
+10.  Teradata- Company that provides database related products and services.

@@ -1,0 +1,53 @@
+.topWords {
+	text-align: center;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+.Red {
+	color: red;
+}
+
+.Blue {
+	color: blue;
+}
+
+.Green {
+	color: green;
+}
+
+.Big {
+	font-size: 36px;
+}
+
+.Small {
+	font-size: 10px;
+}
+
+.MiddleWords {
+	text-align: center;
+}
+
+.Bold {
+	font-weight: bold;
+}
+
+.Font {
+	font-family: fantasy;
+}
+
+.Combine {
+	font-size: 36px;
+	font-weight: bold;
+	color: orange;
+}
+
+.styledFont {
+	color: green;
+}
+
+.ImagethatisStyled {
+	border: 10px solid orange;
+}
